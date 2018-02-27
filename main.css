@@ -1,0 +1,40 @@
+.main{
+  background:#ffe2e2;
+  text-align: center;
+  margin: 0 auto;
+}
+.machine{
+  border: 2px solid #ffb7b7;
+  background:#ffb7b7;
+  height: 350px;
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 50px;
+}
+.options{
+  background:#b28080;
+  width: 80px;
+  height: 50px;
+  border: none;
+  margin: 20px;
+  margin-left: 60px;
+  border-radius: 10px;
+}
+.chocalates{
+  height: 50px;
+  margin: -20px;
+}
+.coins{
+  height: 100px;
+  width: 200px;
+  background:#4c3636;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.text{
+  color:#ffb7b7;
+  text-align:center;
+}
+.payment{
+  display:none;
+}

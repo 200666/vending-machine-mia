@@ -32,6 +32,8 @@ $(document).ready(function() {
       var change = total-price;
       $("h5").text("thank you. your change is");
       $("h4").text(change);
+      alert("Thank you. Your change is " + change);
+
     } else if (total<price){
       $("h5").text("sorry, that is not enough. please add more next time");
     }
